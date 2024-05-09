@@ -16,7 +16,7 @@ Inside the folder you just created, add the files called api_keys.py, WeatherPy.
 
 Before you push your changes to GitHub, add a .gitignore file.
 
-### Add a .gitignore File
+## Add a .gitignore File
 For this assignment, you will need to add a .gitignore file to your repo. Doing so will prevent the api_keys.py file that contains your API key from being shared with the public. If you skip this step, anyone using GitHub could copy and use your API key, and you may incur charges as a result.
 
 To get started, type git status in the command line to see a list of all the untracked files that you have created so far.
@@ -29,7 +29,7 @@ Open your python-api-challenge GitHub folder in VS Code.
 
 Open the .gitignore file and type the following code on the first line:
 
-# Adding config.py file.
+## Adding config.py file.
 api_keys.py
 In the command line, type git status and press Enter. The output should indicate that the .gitignore file has been modified and the api_keys.py file is untracked.
 
