@@ -16,7 +16,7 @@ Inside the folder you just created, add the files called api_keys.py, WeatherPy.
 
 Before you push your changes to GitHub, add a .gitignore file.
 
-Add a .gitignore File
+### Add a .gitignore File
 For this assignment, you will need to add a .gitignore file to your repo. Doing so will prevent the api_keys.py file that contains your API key from being shared with the public. If you skip this step, anyone using GitHub could copy and use your API key, and you may incur charges as a result.
 
 To get started, type git status in the command line to see a list of all the untracked files that you have created so far.
